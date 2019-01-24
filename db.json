@@ -1,0 +1,38 @@
+{
+  "kandidat": [
+    {
+      "id": 0,
+      "nomor_urut": 1,
+      "capresId": 0,
+      "cawapresId": 1,
+      "visi": "lorem ipsum"
+    },
+    {
+      "id": 1,
+      "nomor_urut": 2,
+      "capresId": 2,
+      "cawapresId": 3,
+      "visi": "lorem ipsum"
+    }
+  ],
+  "orang": [
+    { "id": 0, "nama": "Joko Widodo" },
+    { "id": 1, "nama": "Ma'ruf Amin" },
+    { "id": 2, "nama": "Prabowo Subianto" },
+    { "id": 3, "nama": "Sandiaga Uno" }
+  ],
+  "misi": [
+    {
+      "id": 0,
+      "isi": "Lorem ipsum",
+      "kandidatId": 0,
+      "kategori": ["KESEHATAN", "SOSIAL"]
+    },
+    {
+      "id": 1,
+      "isi": "Lorem ipsum",
+      "kandidatId": 1,
+      "kategori": ["HAM", "SOSIAL"]
+    }
+  ]
+}
